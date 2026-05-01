@@ -4,7 +4,6 @@ import { useEffect, useMemo, useState } from "react";
 import { AnimatePresence, motion } from "framer-motion";
 import { FaBars, FaTimes } from "react-icons/fa";
 import { navItems } from "@/lib/site-config";
-import { ThemeToggle } from "@/components/ui/theme-toggle";
 
 export function Navbar() {
   const [activeSection, setActiveSection] = useState("hero");
@@ -91,7 +90,6 @@ export function Navbar() {
           </ul>
 
           <div className="flex items-center gap-3">
-            <ThemeToggle />
             <button
               type="button"
               onClick={() => setIsMenuOpen((prev) => !prev)}

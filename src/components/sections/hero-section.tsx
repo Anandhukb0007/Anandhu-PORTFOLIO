@@ -5,7 +5,7 @@ export function HeroSection() {
   return (
     <section
       id="hero"
-      className="relative flex min-h-[calc(100svh-4rem)] items-center overflow-hidden scroll-mt-24 py-10 sm:py-14"
+      className="relative flex min-h-[calc(100svh-4rem)] items-center overflow-hidden scroll-mt-24 pt-24 pb-10 sm:pt-32 sm:pb-14"
     >
       <div className="section-shell relative z-10 grid items-center gap-12 lg:grid-cols-[1.1fr_0.9fr]">
         <Reveal>
