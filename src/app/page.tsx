@@ -1,7 +1,7 @@
 import dynamic from "next/dynamic";
 import { Suspense } from "react";
 import { OpeningAnimation } from "@/components/ui/opening-animation";
-import { OpeningAnimationWrapper } from "@/components/ui/opening-animation-wrapper";
+
 import { Navbar } from "@/components/navigation/navbar";
 import { AboutSection } from "@/components/sections/about-section";
 import { BlogSection } from "@/components/sections/blog-section";
