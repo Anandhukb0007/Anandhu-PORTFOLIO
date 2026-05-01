@@ -3,14 +3,14 @@
     "title": "Spotify Clone",
     "description": "A full-stack music streaming clone with secure JWT authentication, playlists, and a responsive player experience.",
     "techStack": ["MongoDB", "Express", "React", "Node.js", "JWT"],
-    "githubUrl": "https://github.com/anandhukb/spotify-clone",
+    "githubUrl": "https://github.com/Anandhukb0007/Spotify-Front-End",
     "liveUrl": "https://spotify-clone-demo.vercel.app"
   },
   {
     "title": "Task Manager",
     "description": "Productivity dashboard with role-based admin controls, analytics widgets using Recharts, and roadmap integration for Socket.IO live updates.",
     "techStack": ["Next.js", "Node.js", "Express", "MongoDB", "Recharts"],
-    "githubUrl": "https://github.com/anandhukb/task-manager",
+    "githubUrl": "https://github.com/Anandhukb0007/Zidio_Task_Management",
     "liveUrl": "https://task-manager-demo.vercel.app"
   }
 ]

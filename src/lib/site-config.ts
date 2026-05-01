@@ -12,7 +12,7 @@ export const navItems: NavItem[] = [
 ];
 
 export const socialLinks = [
-  { label: "GitHub", href: "https://github.com/anandhukb" },
-  { label: "LinkedIn", href: "https://www.linkedin.com/in/anandhukb" },
-  { label: "Email", href: "mailto:anandhukb.dev@gmail.com" },
+  { label: "GitHub", href: "https://github.com/Anandhukb0007" },
+  { label: "LinkedIn", href: "https://www.linkedin.com/in/anandhukb0007" },
+  { label: "Email", href: "mailto:anandhukb0007@gmail.com" },
 ];
